@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "form01",
+  "name": "rmui-form01",
   "icons": [
     {
       "src": "favicon.ico",
